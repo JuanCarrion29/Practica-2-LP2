@@ -1,1 +1,1 @@
-# -Pr-ctica-2-LP2
+# Práctica 2
